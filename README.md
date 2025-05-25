@@ -23,10 +23,10 @@ Telegram-бот для проведения автоматизированных
 
 ## Полный список зависимостей
 
-*aiogram==3.20.0
-*langchain==0.3.25
-*langchain-community==0.3.24
-*langchain-openai==0.2.3
-*pandas==2.2.3
-*openai==1.82.0
-*python-dotenv==1.1.0
+* aiogram==3.20.0
+* langchain==0.3.25
+* langchain-community==0.3.24
+* langchain-openai==0.2.3
+* pandas==2.2.3
+* openai==1.82.0
+* python-dotenv==1.1.0
